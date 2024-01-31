@@ -9,9 +9,9 @@
 - 😄 Pronouns: She/Her/Hers
 - 📫 How to reach me:
   
-  ✅ linkedin  https://www.linkedin.com/in/yeyoun-han-15370025b/
+  ✅ LinkedIn  https://www.linkedin.com/in/yeyoun-han-15370025b/
   
-  ✅ email han293@wisc.edu
+  ✅ Email han293@wisc.edu
 
 <!---
 HanYeyoung/HanYeyoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
