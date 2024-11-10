@@ -9,7 +9,7 @@
 - 😄 Pronouns: She/Her/Hers
 - 📫 How to reach me:
   
-  ✅ LinkedIn  https://www.linkedin.com/in/yeyoun-han-15370025b/
+  ✅ LinkedIn  https://www.linkedin.com/in/yeyoung-han-15370025b/
   
   ✅ Email han293@wisc.edu
 
