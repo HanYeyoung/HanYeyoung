@@ -1,19 +1,49 @@
-- 👋 Hi, I’m Adelia Han!
-- I'm Computer Sciences and Mathematics student at University of Wisconsin-Madison.
-- I will be graduating on May 2025
-- 👀 I’m interested in full-stack development, web development, and data analysis.
-- 🌱 I’m currently learning ...
-	- Languages: Java, C, Python, SQL, HTML/CSS, JavaScript, Json, LaTeX
-	- Tools & Tech: React, Flask, Git, GitHub, Linux, Google Cloud
-	- Related Courses: Programming III, Introduction to Artificial Intelligence, Introduction to Algorithms, Database Management Systems: Design and Implementation, Machine Organization and Programming, Elementary Matrix and Linear Algebra, Introduction to Discrete Mathematics, Introduction to Computer Engineering, Introduction to Probability and Mathematical Statistics I
-- 😄 Pronouns: She/Her/Hers
-- 📫 How to reach me:
-  
-  ✅ LinkedIn  https://www.linkedin.com/in/yeyoung-han-15370025b/
-  
-  ✅ Email han293@wisc.edu
+# 👋 Hi, I'm Adelia Han (Yeyoung Han)!
 
-<!---
-HanYeyoung/HanYeyoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Computer Science & Mathematics Student**  
+University of Wisconsin-Madison (Graduating May 2025)
+
+🌟 **Passionate About:**  
+- Software Development
+- Data Analysis
+- Game Development
+  
+---
+
+## 🛠️ Skills & Tools
+**Languages:**  
+- Java, C, C++, Python, SQL, HTML/CSS, JavaScript, TypeScript, JSON, LaTeX, Shell Script (bash/Python/zsh)
+
+**Technologies:**  
+- React, Next.js, TailwindCSS, Flask, Docker, Git, GitHub, Linux, Google Cloud, Figma
+
+**Key Courses:**  
+Programming III, Artificial Intelligence, Algorithms, Database Management Systems, Machine Organization, Matrix and Linear Algebra, Discrete Mathematics, Probability and Mathematical Statistics, Number Theory, Mathematical Methods in Data Science, Computer Sciences Capstone
+
+---
+
+## 👩‍💼 Experiences
+
+**Software Developer Intern** | Samsung Electronics (June 2024 – August 2024)  
+- Created Python and shell script-based test cases for SSD product performance  
+
+**Advisory Board Member** | UW-Madison CS Department (March 2024 – Present)  
+
+**Library Assistant** | UW-Madison Library (Sept 2023 – Present)  
+
+---
+
+## 🏆 Awards & Achievements
+
+- **MadHacks Fall 2024:** Capital One 2nd Prize 
+- **MadHacks Fall 2023:** Most Creative Use of GitHub (Sponsor Award)  
+- **Dean's List:** University of Wisconsin-Madison  
+
+---
+
+## 🌐 Connect with Me  
+
+- [GitHub](https://github.com/HanYeyoung)
+- [LinkedIn](https://www.linkedin.com/in/yeyoung-han-15370025b)  
+- Email: han293@wisc.edu  
+"""
