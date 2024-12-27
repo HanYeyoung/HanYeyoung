@@ -46,4 +46,3 @@ Programming III, Artificial Intelligence, Algorithms, Database Management System
 - [GitHub](https://github.com/HanYeyoung)
 - [LinkedIn](https://www.linkedin.com/in/yeyoung-han-15370025b)  
 - Email: han293@wisc.edu  
-"""
